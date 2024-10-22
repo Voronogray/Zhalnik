@@ -1,6 +1,12 @@
-# About
+# Русский
 
-This program is the manager of everything. You can leave notes, set reminders, etc. The full list will be below.
+### Предназначение
 
+Это браузер. Не знаю что еще пока что здесь написать. :[
+
+# English
+
+### Purpose
+This is a browser. I don't know what else to write here yet. :[
 
 
